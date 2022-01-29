@@ -1,0 +1,8 @@
+[package]
+name = "matcalc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.16"
+strum = { version = "0.23", features = ["derive"] }
